@@ -68,7 +68,6 @@ PC에서는 Tampermonkey 같은 사용자 스크립트 관리자를 사용할 �
 
 - 원본 프로젝트: [Chapchu1/crack-userscripts](https://github.com/Chapchu1/crack-userscripts)
 - 수정·배포: [Ube-design/csp-theme](https://github.com/Ube-design/csp-theme)
-- 배포자는 원작자의 허락을 받아 수정·재배포합니다.
 - 원본 코드에 포함된 개별 디자인·이미지 출처 표기를 유지합니다.
 
 ## 참고 문서
