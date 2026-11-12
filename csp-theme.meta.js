@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         🖼️ CSP - 테마·배경 꾸미기
 // @namespace    crack-scene-painter-background-borderless
-// @version      4.4
-// @description  크랙 테마·배경·글자·강조 꾸미기. 프리셋·웹폰트 목록을 유지하는 설정 초기화.
+// @version      4.4.5
+// @description  크랙 테마·배경·글자·강조 꾸미기. 입력창 블러 충돌과 모델 선택창 레이어를 공통 보정.
 // @match        https://crack.wrtn.ai/*
 // @require      https://cdn.jsdelivr.net/npm/fflate@0.8.2/umd/index.js
 // @run-at       document-idle
